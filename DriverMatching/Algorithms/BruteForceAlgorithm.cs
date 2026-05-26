@@ -21,4 +21,5 @@ public class BruteForceAlgorithm : IMatchingAlgorithm
             .Select(x => x.Driver)
             .ToList();
     }
+
 }
